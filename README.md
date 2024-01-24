@@ -2,7 +2,7 @@
   <head>
   </head>
 <body> 
-  IPL Win Prediction
+ <h1>IPL Win Prediction</h1> 
 </body>
   
 </html>
